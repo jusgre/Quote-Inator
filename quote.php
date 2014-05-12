@@ -30,7 +30,7 @@
 
 <body>
   <p class="centeredImage"><img alt="Articulate" border="0" src=
-  "articulateLogo_blue_small.jpg" /></p>
+  "http://jgrenier.articulatetest.com/Quote-inator/articulateLogo_blue_small.jpg" /></p>
 
   <p style="font-family:Arial, Helvetica, sans-serif; text-align:center;">244 5th Avenue
   #2960<br />
